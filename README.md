@@ -27,3 +27,12 @@ The following metrics were calculated to assess overall business performance:
 You can view a static preview of the final dashboard here:
 
 * **[Dashboard Preview Image](https://github.com/parasss20/Pizza_sales_analysis/blob/main/Dashboard.png)**
+## 💡 Conclusion
+This analysis successfully translated raw pizza sales data into actionable business intelligence using MS SQL and Excel. The project established a baseline for performance tracking through five core KPIs and delivered seven key visualizations.
+
+The dashboard enables stakeholders to:
+1. Optimize Scheduling: By identifying peak order hours and days (using the Hourly and Daily Trend charts).
+2. Manage Inventory: By clearly highlighting the Top 5 and Bottom 5 best-selling pizzas.
+3. Inform Marketing: By understanding customer demand based on the percentage of sales by size and category.
+
+Overall, the project provides a comprehensive, visual snapshot of sales performance necessary for strategic operational and marketing decisions.
