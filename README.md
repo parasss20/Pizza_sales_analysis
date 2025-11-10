@@ -22,3 +22,8 @@ The following metrics were calculated to assess overall business performance:
 * **Analysis/Manipulation:** **Excel**
 * **Database:** **MS SQL (Microsoft SQL Server)**
 * **Visualization/Dashboard:** **Excel**
+## 🔗 Dashboard Link & Preview
+
+You can view a static preview of the final dashboard here:
+
+* **[Dashboard Preview Image](https://github.com/parasss20/Pizza_sales_analysis/blob/main/Dashboard.png)**
